@@ -10,7 +10,7 @@ Olá! Sou Crispim dos Reis Rodrigues, um desenvolvedor **Full Stack** apaixonado
 ## 📫 Entre em Contato
 - 📧 [crispim.rodrigues.oficial@gmail.com](mailto:crispim.rodrigues.oficial@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/crispim-rodrigues/)
-- :earth_americas: Site(InWorks)
+- :earth_americas: Site(Work)
 <!-- Habilidades -->
 ## 💼 Habilidades
 - **Linguagens:** 
