@@ -38,8 +38,8 @@ Olá! Sou Crispim dos Reis Rodrigues, um desenvolvedor **Full Stack** apaixonado
 
 ## Projetos Destacados
 
-- [C# Mvc Dashboard](https://github.com/Crispim-Rodrigues/Csharp-appDashboard)
-- [C# ApiRest](https://github.com/Crispim-Rodrigues/APICatalogo-Csharp)
+- [Next Discod FullStack Clone](https://github.com/Crispim-Rodrigues/discord-clone)
+- [Shop MKS Challenge](https://github.com/Crispim-Rodrigues/mks-frontend-challenge)
 
 ## Estatísticas
 
